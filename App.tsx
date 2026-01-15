@@ -44,8 +44,8 @@ const STATS = [
   { id: 'MAS', label: 'Mastery', activeBg: 'bg-yellow-600' },
   { id: 'KNO', label: 'Knowledge', activeBg: 'bg-blue-600' },
   { id: 'RAP', label: 'Rapport', activeBg: 'bg-purple-600' },
-  { id: 'MEN', label: 'Mental', activeBg: 'bg-cyan-600' },
-  { id: 'INT', label: 'Intuition', activeBg: 'bg-orange-600' },
+  { id: 'MEN', label: 'Menace', activeBg: 'bg-cyan-600' },
+  { id: 'INT', label: 'Introversion', activeBg: 'bg-orange-600' },
 ];
 
 const App: React.FC = () => {
